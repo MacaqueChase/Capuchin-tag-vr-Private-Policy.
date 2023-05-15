@@ -7,7 +7,7 @@ Monkeys Game VR Privacy Policy
 4. How we clear/delete your collected data
 5. Getting In Contact With us
 
-
+ 
 
 1. Understanding
 "Hardware ID" an amount of numbers specifically for a device or system
